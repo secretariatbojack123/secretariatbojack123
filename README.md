@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @secretariatbojk
 - 👀 I’m interested in wifis
 - 🌱 I’m currently learning Networking
-- 💞️ I’m looking to collaborate on UJCYC
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me? God knows
 
 
