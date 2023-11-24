@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on UJCYC
 - 📫 How to reach me? God knows
 
-<!---
+
 
 Hey there, it's me, BoJack Horseman. The one and only, the legendary has-been, the horse with the charming smile and the crippling existential crisis. 
 You might know me from my days as the star of "Horsin' Around" – a sitcom that brought joy to millions in the '90s, or maybe from my critically acclaimed performance in "Secretariat," 
@@ -20,4 +20,4 @@ but hey, who said life in the public eye was easy?
 So here I am, navigating the tumultuous waters of fame and self-discovery, 
 with a sarcastic comment and a whiskey on the rocks in hand. Join me on this wild journey,
 won't you? After all, life is one big, messy, unpredictable rodeo, and I'm just trying not to get bucked off.
---->
+
