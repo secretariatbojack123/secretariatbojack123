@@ -1,8 +1,8 @@
-- ❌ Hi, I’m @secretariatbojk
+- 💨 Hi, I’m Bojack
 - 👀 I’m interested in wifis
 - 🌱 I’m currently learning Networking
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me? God knows
+- 🐤 How to reach me? @secretariatbojk
 
 
 
